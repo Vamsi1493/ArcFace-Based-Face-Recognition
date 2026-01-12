@@ -1,0 +1,25 @@
+# Virtual environment
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+
+# Dataset
+dataset/
+
+# Model artifacts
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
+package_info.json
