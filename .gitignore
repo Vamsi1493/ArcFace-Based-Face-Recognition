@@ -8,8 +8,6 @@ pyvenv.cfg
 # Dataset
 dataset/
 
-# Model artifacts
-models/*.pkl
 
 # Python cache
 __pycache__/
